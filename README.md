@@ -1,2 +1,6 @@
-# First
-First repository on github
+
+class First {
+  public static void main(String[] args){
+  
+  }
+}
